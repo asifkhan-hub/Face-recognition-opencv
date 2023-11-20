@@ -14,6 +14,7 @@ Install the required libraries:
 
 
 pip install opencv-python face_recognition
+
 Specify the paths to the persons' image files and associated names in the script.
 
 Run the script:
